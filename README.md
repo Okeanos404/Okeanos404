@@ -12,11 +12,11 @@ Seorang developer yang berfokus pada perancangan antarmuka visual interaktif (UI
 ### 📊 Language & GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Okeanos404&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Okeanos404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Okeanos404&theme=tokyonight" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Okeanos404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
