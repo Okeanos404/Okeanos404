@@ -1,15 +1,24 @@
-# Hi, I'm Riyan (Okeanos404) 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=flat-square" />
+<a href="https://github.com/Okeanos404">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Riyan+(Okeanos404);Fullstack+Web+Developer;Crafting+Digital+Experiences;Turning+Coffee+into+Code" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  Membangun sistem terintegrasi dengan fondasi <b>Backend</b> yang solid dan <b>Frontend</b> yang presisi secara visual. 
 </p>
 
-Seorang developer yang berfokus pada perancangan antarmuka visual interaktif (UI/UX) dengan *Vanilla JavaScript*, serta pengembangan logika sistem terintegrasi dan arsitektur *Backend*. 
+<br>
 
----
+### ⚙️ Tech Arsenal
 
-### 📊 Language & GitHub Statistics
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vite,php,laravel,mysql,python,git&theme=dark&perline=5" alt="My Skills" />
+</a>
+
+<br><br>
+
+### 📈 Activity & Impact
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Okeanos404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Top Languages" />
@@ -19,30 +28,13 @@ Seorang developer yang berfokus pada perancangan antarmuka visual interaktif (UI
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Okeanos404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend & Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=white" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<br>
 
 ---
 
-<p align="right">
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   © 2026 <b>@Okeanos404</b>
 </p>
+
+</div>
