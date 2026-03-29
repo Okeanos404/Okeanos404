@@ -10,12 +10,13 @@ Seorang developer yang berfokus pada perancangan antarmuka visual interaktif (UI
 ---
 
 ### 📊 Language & GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okeanos404&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okeanos404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Okeanos404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
