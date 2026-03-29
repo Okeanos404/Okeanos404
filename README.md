@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Okeanos404">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Riyan+(Okeanos404);Fullstack+Web+Developer;Crafting+Digital+Experiences;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Riyan+(Okeanos404);Fullstack+Web+Developer;Crafting+Digital+Experiences;Building+Robust+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
